@@ -25,6 +25,6 @@ It takes the user data from the Front-end and uses Mongo DB Atlas to store the d
 Thank You
 
 contributer 
-GAURAV Raj
-Irfas Hussain
+GAURAV Raj,
+Irfas Hussain,
 Flansh Gajbhiye
